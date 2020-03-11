@@ -29,3 +29,7 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+#よくわからないがここに追加するよう指示のあったファイル.後で調べる必要あり
+.DS_Store
+/vendor/bundle
